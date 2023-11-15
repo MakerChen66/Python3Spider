@@ -2,7 +2,7 @@
 
 """
 @author: makerchen
-@微信公众号：小鸿星空科技
+@微信公众号：小鸿爱摸鱼
 """
 
 import requests
